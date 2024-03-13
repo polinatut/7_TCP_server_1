@@ -1,0 +1,11 @@
+.idea/
+lsbaws/
+Lib/
+site-packages/
+*.exe
+*.bat
+bin/
+lib/
+venv/
+env/
+*.whl
